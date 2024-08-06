@@ -249,7 +249,7 @@
             <p>Viral Pro es una empresa joven y dinámica dedicada a crear experiencias de juego futuristas y soluciones tecnológicas innovadoras. Fundada en 2024, nuestra pasión es combinar la tecnología de vanguardia con la creatividad para ofrecer productos únicos que desafían los límites de lo posible.</p>
             <p>Nuestro equipo está compuesto por visionarios tecnológicos, diseñadores de juegos premiados y expertos en programación, todos unidos por el objetivo común de revolucionar la industria del gaming y la tecnología interactiva.</p>
             <div class="social-media">
-                <a href="https://www.instagram.com/damian_musi?igsh=bjVieGwzOGdyaTdz" target="_blank"></a>
+                <a href="https://www.instagram.com/httpsjuegosdam.github.ioempres?igsh=bjVieGwzOGdyaTdz" target="_blank"></a>
                 <a href="https://twitter.com/damian_tech" target="_blank"></a>
                 <a href="https://facebook.com/damiantechgames" target="_blank"></a>
             </div>
@@ -355,7 +355,7 @@
             <h2>Contacto</h2>
             <p>Para cualquier consulta, puedes escribirnos directamente en Instagram:</p>
             <div class="contact-info">
-                <a href"https://www.instagram.com/htts" https://www.instagram.com/httpsjuegosdam.github.ioempres?igsh=bjVieGwzOGdyaTdz"_blank">Instagram</a>
+                
             </div>
         </div>
     </main>
