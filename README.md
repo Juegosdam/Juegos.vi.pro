@@ -355,7 +355,7 @@
             <h2>Contacto</h2>
             <p>Para cualquier consulta, puedes escribirnos directamente en Instagram:</p>
             <div class="contact-info">
-                <a href"https://www.instagram.com/httpsjuegosdam.github.ioempres?igsh=bjVieGwzOGdyaTdz" target="_blank">Instagram</a>
+                <a href"https://www.instagram.com/htts" https://www.instagram.com/httpsjuegosdam.github.ioempres?igsh=bjVieGwzOGdyaTdz"_blank">Instagram</a>
             </div>
         </div>
     </main>
