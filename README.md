@@ -330,7 +330,7 @@
             <h2>Contacto</h2>
             <p>Para cualquier consulta, puedes escribirnos directamente en Instagram:</p>
             <div class="contact-info">
-                <a href"https://www.instagram.com/httpsjuegosdam.github.iojuegos?igsh=bjVieGwzOGdyaTdz" target="_blank"></a>
+                <a href"" target="_blank"></a>
             </div>
         </div>
     </main>
